@@ -1,2 +1,2 @@
 # javascript-to-do
-To-do list with Javascript
+To-do list built with Javascript
